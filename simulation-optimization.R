@@ -1,4 +1,4 @@
-#Bibliotecas utilizadas
+#Libraries
 library(metaheuristicOpt)
 library(DEoptim)
 library(SPOT)

@@ -1,0 +1,26 @@
+cff-version: 1.2.0
+message: "If you use this software, please cite the paper below."
+title: "Code for: Analysis of Sequential Parameter Optimization for Computer Simulation Optimization"
+type: software
+authors:
+  - family-names: "Costa"
+    given-names: "Andre N."
+  - family-names: "Dantas"
+    given-names: "Joao P. A."
+    orcid: "https://orcid.org/0000-0003-0300-8027"
+repository-code: "https://github.com/jpadantas/simulation-optimization"
+license: MIT
+preferred-citation:
+  type: unpublished
+  title: "Analysis of Sequential Parameter Optimization for Computer Simulation Optimization"
+  authors:
+    - family-names: "Costa"
+      given-names: "Andre N."
+    - family-names: "Dantas"
+      given-names: "Joao P. A."
+      orcid: "https://orcid.org/0000-0003-0300-8027"
+  year: 2023
+  publisher:
+    name: "SSRN"
+  doi: "10.2139/ssrn.4328180"
+  url: "https://www.joaopadantas.com/publications/costa2023analysis/"
